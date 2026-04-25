@@ -1,0 +1,1271 @@
+{
+  "leagueName": "All NCAA FBS Teams",
+  "sport": "college_football",
+  "season": 2024,
+  "teamCount": 134,
+  "conferences": [
+    {
+      "name": "ACC",
+      "teams": [
+        "boston_college",
+        "california_golden",
+        "clemson",
+        "duke_blue",
+        "florida_state",
+        "georgia_tech",
+        "louisville",
+        "miami",
+        "nc_state",
+        "north_carolina",
+        "pittsburgh",
+        "smu",
+        "stanford",
+        "syracuse",
+        "virginia",
+        "virginia_tech",
+        "wake_forest"
+      ]
+    },
+    {
+      "name": "American Athletic Conference",
+      "teams": [
+        "army_black",
+        "charlotte",
+        "east_carolina",
+        "florida_atlantic",
+        "memphis",
+        "navy",
+        "north_texas",
+        "rice",
+        "south_florida",
+        "temple",
+        "tulane_green",
+        "tulsa_golden",
+        "uab",
+        "utsa"
+      ]
+    },
+    {
+      "name": "Big 12",
+      "teams": [
+        "arizona",
+        "arizona_state",
+        "baylor",
+        "byu",
+        "cincinnati",
+        "colorado",
+        "houston",
+        "iowa_state",
+        "kansas",
+        "kansas_state",
+        "oklahoma_state",
+        "tcu_horned",
+        "texas_tech",
+        "ucf",
+        "utah",
+        "west_virginia"
+      ]
+    },
+    {
+      "name": "Big Ten",
+      "teams": [
+        "illinois_fighting",
+        "indiana",
+        "iowa",
+        "maryland",
+        "michigan",
+        "michigan_state",
+        "minnesota_golden",
+        "nebraska",
+        "northwestern",
+        "ohio_state",
+        "oregon",
+        "penn_state",
+        "purdue",
+        "rutgers_scarlet",
+        "ucla",
+        "usc",
+        "washington",
+        "wisconsin"
+      ]
+    },
+    {
+      "name": "Conference USA",
+      "teams": [
+        "fiu",
+        "jacksonville_state",
+        "kennesaw_state",
+        "liberty",
+        "louisiana_tech",
+        "middle_tennessee",
+        "new_mexico_state",
+        "sam_houston",
+        "utep",
+        "western_kentucky"
+      ]
+    },
+    {
+      "name": "MAC",
+      "teams": [
+        "akron",
+        "ball_state",
+        "bowling_green",
+        "buffalo",
+        "central_michigan",
+        "eastern_michigan",
+        "kent_state",
+        "miami_oh",
+        "northern_illinois",
+        "ohio",
+        "toledo",
+        "western_michigan"
+      ]
+    },
+    {
+      "name": "Mountain West",
+      "teams": [
+        "air_force",
+        "boise_state",
+        "colorado_state",
+        "fresno_state",
+        "hawaii_rainbow",
+        "nevada_wolf",
+        "new_mexico",
+        "san_diego_state",
+        "san_jose_state",
+        "unlv",
+        "utah_state",
+        "wyoming"
+      ]
+    },
+    {
+      "name": "Pac-12",
+      "teams": [
+        "oregon_state",
+        "washington_state"
+      ]
+    },
+    {
+      "name": "SEC",
+      "teams": [
+        "alabama",
+        "arkansas",
+        "auburn",
+        "florida",
+        "georgia",
+        "kentucky",
+        "lsu",
+        "mississippi_state",
+        "missouri",
+        "oklahoma",
+        "ole_miss",
+        "south_carolina",
+        "tennessee",
+        "texas",
+        "texas_a_m",
+        "vanderbilt"
+      ]
+    },
+    {
+      "name": "Sun Belt",
+      "teams": [
+        "appalachian_state",
+        "arkansas_state",
+        "coastal_carolina",
+        "georgia_southern",
+        "georgia_state",
+        "james_madison",
+        "louisiana",
+        "ulm",
+        "marshall_thundering",
+        "old_dominion",
+        "south_alabama",
+        "southern_miss",
+        "texas_state",
+        "troy"
+      ]
+    },
+    {
+      "name": "FBS Independents",
+      "teams": [
+        "uconn",
+        "umass",
+        "notre_dame_fighting"
+      ]
+    }
+  ],
+  "teams": [
+    {
+      "id": "boston_college",
+      "school": "Boston College",
+      "nickname": "Eagles",
+      "name": "Boston College Eagles",
+      "conference": "ACC",
+      "division": "FBS"
+    },
+    {
+      "id": "california_golden",
+      "school": "California Golden",
+      "nickname": "Bears",
+      "name": "California Golden Bears",
+      "conference": "ACC",
+      "division": "FBS"
+    },
+    {
+      "id": "clemson",
+      "school": "Clemson",
+      "nickname": "Tigers",
+      "name": "Clemson Tigers",
+      "conference": "ACC",
+      "division": "FBS"
+    },
+    {
+      "id": "duke_blue",
+      "school": "Duke Blue",
+      "nickname": "Devils",
+      "name": "Duke Blue Devils",
+      "conference": "ACC",
+      "division": "FBS"
+    },
+    {
+      "id": "florida_state",
+      "school": "Florida State",
+      "nickname": "Seminoles",
+      "name": "Florida State Seminoles",
+      "conference": "ACC",
+      "division": "FBS"
+    },
+    {
+      "id": "georgia_tech",
+      "school": "Georgia Tech",
+      "nickname": "Yellow Jackets",
+      "name": "Georgia Tech Yellow Jackets",
+      "conference": "ACC",
+      "division": "FBS"
+    },
+    {
+      "id": "louisville",
+      "school": "Louisville",
+      "nickname": "Cardinals",
+      "name": "Louisville Cardinals",
+      "conference": "ACC",
+      "division": "FBS"
+    },
+    {
+      "id": "miami",
+      "school": "Miami",
+      "nickname": "Hurricanes",
+      "name": "Miami Hurricanes",
+      "conference": "ACC",
+      "division": "FBS"
+    },
+    {
+      "id": "nc_state",
+      "school": "NC State",
+      "nickname": "Wolfpack",
+      "name": "NC State Wolfpack",
+      "conference": "ACC",
+      "division": "FBS"
+    },
+    {
+      "id": "north_carolina",
+      "school": "North Carolina",
+      "nickname": "Tar Heels",
+      "name": "North Carolina Tar Heels",
+      "conference": "ACC",
+      "division": "FBS"
+    },
+    {
+      "id": "pittsburgh",
+      "school": "Pittsburgh",
+      "nickname": "Panthers",
+      "name": "Pittsburgh Panthers",
+      "conference": "ACC",
+      "division": "FBS"
+    },
+    {
+      "id": "smu",
+      "school": "SMU",
+      "nickname": "Mustangs",
+      "name": "SMU Mustangs",
+      "conference": "ACC",
+      "division": "FBS"
+    },
+    {
+      "id": "stanford",
+      "school": "Stanford",
+      "nickname": "Cardinal",
+      "name": "Stanford Cardinal",
+      "conference": "ACC",
+      "division": "FBS"
+    },
+    {
+      "id": "syracuse",
+      "school": "Syracuse",
+      "nickname": "Orange",
+      "name": "Syracuse Orange",
+      "conference": "ACC",
+      "division": "FBS"
+    },
+    {
+      "id": "virginia",
+      "school": "Virginia",
+      "nickname": "Cavaliers",
+      "name": "Virginia Cavaliers",
+      "conference": "ACC",
+      "division": "FBS"
+    },
+    {
+      "id": "virginia_tech",
+      "school": "Virginia Tech",
+      "nickname": "Hokies",
+      "name": "Virginia Tech Hokies",
+      "conference": "ACC",
+      "division": "FBS"
+    },
+    {
+      "id": "wake_forest",
+      "school": "Wake Forest",
+      "nickname": "Demon Deacons",
+      "name": "Wake Forest Demon Deacons",
+      "conference": "ACC",
+      "division": "FBS"
+    },
+    {
+      "id": "army_black",
+      "school": "Army Black",
+      "nickname": "Knights",
+      "name": "Army Black Knights",
+      "conference": "American Athletic Conference",
+      "division": "FBS"
+    },
+    {
+      "id": "charlotte",
+      "school": "Charlotte",
+      "nickname": "49ers",
+      "name": "Charlotte 49ers",
+      "conference": "American Athletic Conference",
+      "division": "FBS"
+    },
+    {
+      "id": "east_carolina",
+      "school": "East Carolina",
+      "nickname": "Pirates",
+      "name": "East Carolina Pirates",
+      "conference": "American Athletic Conference",
+      "division": "FBS"
+    },
+    {
+      "id": "florida_atlantic",
+      "school": "Florida Atlantic",
+      "nickname": "Owls",
+      "name": "Florida Atlantic Owls",
+      "conference": "American Athletic Conference",
+      "division": "FBS"
+    },
+    {
+      "id": "memphis",
+      "school": "Memphis",
+      "nickname": "Tigers",
+      "name": "Memphis Tigers",
+      "conference": "American Athletic Conference",
+      "division": "FBS"
+    },
+    {
+      "id": "navy",
+      "school": "Navy",
+      "nickname": "Midshipmen",
+      "name": "Navy Midshipmen",
+      "conference": "American Athletic Conference",
+      "division": "FBS"
+    },
+    {
+      "id": "north_texas",
+      "school": "North Texas",
+      "nickname": "Mean Green",
+      "name": "North Texas Mean Green",
+      "conference": "American Athletic Conference",
+      "division": "FBS"
+    },
+    {
+      "id": "rice",
+      "school": "Rice",
+      "nickname": "Owls",
+      "name": "Rice Owls",
+      "conference": "American Athletic Conference",
+      "division": "FBS"
+    },
+    {
+      "id": "south_florida",
+      "school": "South Florida",
+      "nickname": "Bulls",
+      "name": "South Florida Bulls",
+      "conference": "American Athletic Conference",
+      "division": "FBS"
+    },
+    {
+      "id": "temple",
+      "school": "Temple",
+      "nickname": "Owls",
+      "name": "Temple Owls",
+      "conference": "American Athletic Conference",
+      "division": "FBS"
+    },
+    {
+      "id": "tulane_green",
+      "school": "Tulane Green",
+      "nickname": "Wave",
+      "name": "Tulane Green Wave",
+      "conference": "American Athletic Conference",
+      "division": "FBS"
+    },
+    {
+      "id": "tulsa_golden",
+      "school": "Tulsa Golden",
+      "nickname": "Hurricane",
+      "name": "Tulsa Golden Hurricane",
+      "conference": "American Athletic Conference",
+      "division": "FBS"
+    },
+    {
+      "id": "uab",
+      "school": "UAB",
+      "nickname": "Blazers",
+      "name": "UAB Blazers",
+      "conference": "American Athletic Conference",
+      "division": "FBS"
+    },
+    {
+      "id": "utsa",
+      "school": "UTSA",
+      "nickname": "Roadrunners",
+      "name": "UTSA Roadrunners",
+      "conference": "American Athletic Conference",
+      "division": "FBS"
+    },
+    {
+      "id": "arizona",
+      "school": "Arizona",
+      "nickname": "Wildcats",
+      "name": "Arizona Wildcats",
+      "conference": "Big 12",
+      "division": "FBS"
+    },
+    {
+      "id": "arizona_state",
+      "school": "Arizona State",
+      "nickname": "Sun Devils",
+      "name": "Arizona State Sun Devils",
+      "conference": "Big 12",
+      "division": "FBS"
+    },
+    {
+      "id": "baylor",
+      "school": "Baylor",
+      "nickname": "Bears",
+      "name": "Baylor Bears",
+      "conference": "Big 12",
+      "division": "FBS"
+    },
+    {
+      "id": "byu",
+      "school": "BYU",
+      "nickname": "Cougars",
+      "name": "BYU Cougars",
+      "conference": "Big 12",
+      "division": "FBS"
+    },
+    {
+      "id": "cincinnati",
+      "school": "Cincinnati",
+      "nickname": "Bearcats",
+      "name": "Cincinnati Bearcats",
+      "conference": "Big 12",
+      "division": "FBS"
+    },
+    {
+      "id": "colorado",
+      "school": "Colorado",
+      "nickname": "Buffaloes",
+      "name": "Colorado Buffaloes",
+      "conference": "Big 12",
+      "division": "FBS"
+    },
+    {
+      "id": "houston",
+      "school": "Houston",
+      "nickname": "Cougars",
+      "name": "Houston Cougars",
+      "conference": "Big 12",
+      "division": "FBS"
+    },
+    {
+      "id": "iowa_state",
+      "school": "Iowa State",
+      "nickname": "Cyclones",
+      "name": "Iowa State Cyclones",
+      "conference": "Big 12",
+      "division": "FBS"
+    },
+    {
+      "id": "kansas",
+      "school": "Kansas",
+      "nickname": "Jayhawks",
+      "name": "Kansas Jayhawks",
+      "conference": "Big 12",
+      "division": "FBS"
+    },
+    {
+      "id": "kansas_state",
+      "school": "Kansas State",
+      "nickname": "Wildcats",
+      "name": "Kansas State Wildcats",
+      "conference": "Big 12",
+      "division": "FBS"
+    },
+    {
+      "id": "oklahoma_state",
+      "school": "Oklahoma State",
+      "nickname": "Cowboys",
+      "name": "Oklahoma State Cowboys",
+      "conference": "Big 12",
+      "division": "FBS"
+    },
+    {
+      "id": "tcu_horned",
+      "school": "TCU Horned",
+      "nickname": "Frogs",
+      "name": "TCU Horned Frogs",
+      "conference": "Big 12",
+      "division": "FBS"
+    },
+    {
+      "id": "texas_tech",
+      "school": "Texas Tech",
+      "nickname": "Red Raiders",
+      "name": "Texas Tech Red Raiders",
+      "conference": "Big 12",
+      "division": "FBS"
+    },
+    {
+      "id": "ucf",
+      "school": "UCF",
+      "nickname": "Knights",
+      "name": "UCF Knights",
+      "conference": "Big 12",
+      "division": "FBS"
+    },
+    {
+      "id": "utah",
+      "school": "Utah",
+      "nickname": "Utes",
+      "name": "Utah Utes",
+      "conference": "Big 12",
+      "division": "FBS"
+    },
+    {
+      "id": "west_virginia",
+      "school": "West Virginia",
+      "nickname": "Mountaineers",
+      "name": "West Virginia Mountaineers",
+      "conference": "Big 12",
+      "division": "FBS"
+    },
+    {
+      "id": "illinois_fighting",
+      "school": "Illinois Fighting",
+      "nickname": "Illini",
+      "name": "Illinois Fighting Illini",
+      "conference": "Big Ten",
+      "division": "FBS"
+    },
+    {
+      "id": "indiana",
+      "school": "Indiana",
+      "nickname": "Hoosiers",
+      "name": "Indiana Hoosiers",
+      "conference": "Big Ten",
+      "division": "FBS"
+    },
+    {
+      "id": "iowa",
+      "school": "Iowa",
+      "nickname": "Hawkeyes",
+      "name": "Iowa Hawkeyes",
+      "conference": "Big Ten",
+      "division": "FBS"
+    },
+    {
+      "id": "maryland",
+      "school": "Maryland",
+      "nickname": "Terrapins",
+      "name": "Maryland Terrapins",
+      "conference": "Big Ten",
+      "division": "FBS"
+    },
+    {
+      "id": "michigan",
+      "school": "Michigan",
+      "nickname": "Wolverines",
+      "name": "Michigan Wolverines",
+      "conference": "Big Ten",
+      "division": "FBS"
+    },
+    {
+      "id": "michigan_state",
+      "school": "Michigan State",
+      "nickname": "Spartans",
+      "name": "Michigan State Spartans",
+      "conference": "Big Ten",
+      "division": "FBS"
+    },
+    {
+      "id": "minnesota_golden",
+      "school": "Minnesota Golden",
+      "nickname": "Gophers",
+      "name": "Minnesota Golden Gophers",
+      "conference": "Big Ten",
+      "division": "FBS"
+    },
+    {
+      "id": "nebraska",
+      "school": "Nebraska",
+      "nickname": "Cornhuskers",
+      "name": "Nebraska Cornhuskers",
+      "conference": "Big Ten",
+      "division": "FBS"
+    },
+    {
+      "id": "northwestern",
+      "school": "Northwestern",
+      "nickname": "Wildcats",
+      "name": "Northwestern Wildcats",
+      "conference": "Big Ten",
+      "division": "FBS"
+    },
+    {
+      "id": "ohio_state",
+      "school": "Ohio State",
+      "nickname": "Buckeyes",
+      "name": "Ohio State Buckeyes",
+      "conference": "Big Ten",
+      "division": "FBS"
+    },
+    {
+      "id": "oregon",
+      "school": "Oregon",
+      "nickname": "Ducks",
+      "name": "Oregon Ducks",
+      "conference": "Big Ten",
+      "division": "FBS"
+    },
+    {
+      "id": "penn_state",
+      "school": "Penn State",
+      "nickname": "Nittany Lions",
+      "name": "Penn State Nittany Lions",
+      "conference": "Big Ten",
+      "division": "FBS"
+    },
+    {
+      "id": "purdue",
+      "school": "Purdue",
+      "nickname": "Boilermakers",
+      "name": "Purdue Boilermakers",
+      "conference": "Big Ten",
+      "division": "FBS"
+    },
+    {
+      "id": "rutgers_scarlet",
+      "school": "Rutgers Scarlet",
+      "nickname": "Knights",
+      "name": "Rutgers Scarlet Knights",
+      "conference": "Big Ten",
+      "division": "FBS"
+    },
+    {
+      "id": "ucla",
+      "school": "UCLA",
+      "nickname": "Bruins",
+      "name": "UCLA Bruins",
+      "conference": "Big Ten",
+      "division": "FBS"
+    },
+    {
+      "id": "usc",
+      "school": "USC",
+      "nickname": "Trojans",
+      "name": "USC Trojans",
+      "conference": "Big Ten",
+      "division": "FBS"
+    },
+    {
+      "id": "washington",
+      "school": "Washington",
+      "nickname": "Huskies",
+      "name": "Washington Huskies",
+      "conference": "Big Ten",
+      "division": "FBS"
+    },
+    {
+      "id": "wisconsin",
+      "school": "Wisconsin",
+      "nickname": "Badgers",
+      "name": "Wisconsin Badgers",
+      "conference": "Big Ten",
+      "division": "FBS"
+    },
+    {
+      "id": "fiu",
+      "school": "FIU",
+      "nickname": "Panthers",
+      "name": "FIU Panthers",
+      "conference": "Conference USA",
+      "division": "FBS"
+    },
+    {
+      "id": "jacksonville_state",
+      "school": "Jacksonville State",
+      "nickname": "Gamecocks",
+      "name": "Jacksonville State Gamecocks",
+      "conference": "Conference USA",
+      "division": "FBS"
+    },
+    {
+      "id": "kennesaw_state",
+      "school": "Kennesaw State",
+      "nickname": "Owls",
+      "name": "Kennesaw State Owls",
+      "conference": "Conference USA",
+      "division": "FBS"
+    },
+    {
+      "id": "liberty",
+      "school": "Liberty",
+      "nickname": "Flames",
+      "name": "Liberty Flames",
+      "conference": "Conference USA",
+      "division": "FBS"
+    },
+    {
+      "id": "louisiana_tech",
+      "school": "Louisiana Tech",
+      "nickname": "Bulldogs",
+      "name": "Louisiana Tech Bulldogs",
+      "conference": "Conference USA",
+      "division": "FBS"
+    },
+    {
+      "id": "middle_tennessee",
+      "school": "Middle Tennessee",
+      "nickname": "Blue Raiders",
+      "name": "Middle Tennessee Blue Raiders",
+      "conference": "Conference USA",
+      "division": "FBS"
+    },
+    {
+      "id": "new_mexico_state",
+      "school": "New Mexico State",
+      "nickname": "Aggies",
+      "name": "New Mexico State Aggies",
+      "conference": "Conference USA",
+      "division": "FBS"
+    },
+    {
+      "id": "sam_houston",
+      "school": "Sam Houston",
+      "nickname": "Bearkats",
+      "name": "Sam Houston Bearkats",
+      "conference": "Conference USA",
+      "division": "FBS"
+    },
+    {
+      "id": "utep",
+      "school": "UTEP",
+      "nickname": "Miners",
+      "name": "UTEP Miners",
+      "conference": "Conference USA",
+      "division": "FBS"
+    },
+    {
+      "id": "western_kentucky",
+      "school": "Western Kentucky",
+      "nickname": "Hilltoppers",
+      "name": "Western Kentucky Hilltoppers",
+      "conference": "Conference USA",
+      "division": "FBS"
+    },
+    {
+      "id": "akron",
+      "school": "Akron",
+      "nickname": "Zips",
+      "name": "Akron Zips",
+      "conference": "MAC",
+      "division": "FBS"
+    },
+    {
+      "id": "ball_state",
+      "school": "Ball State",
+      "nickname": "Cardinals",
+      "name": "Ball State Cardinals",
+      "conference": "MAC",
+      "division": "FBS"
+    },
+    {
+      "id": "bowling_green",
+      "school": "Bowling Green",
+      "nickname": "Falcons",
+      "name": "Bowling Green Falcons",
+      "conference": "MAC",
+      "division": "FBS"
+    },
+    {
+      "id": "buffalo",
+      "school": "Buffalo",
+      "nickname": "Bulls",
+      "name": "Buffalo Bulls",
+      "conference": "MAC",
+      "division": "FBS"
+    },
+    {
+      "id": "central_michigan",
+      "school": "Central Michigan",
+      "nickname": "Chippewas",
+      "name": "Central Michigan Chippewas",
+      "conference": "MAC",
+      "division": "FBS"
+    },
+    {
+      "id": "eastern_michigan",
+      "school": "Eastern Michigan",
+      "nickname": "Eagles",
+      "name": "Eastern Michigan Eagles",
+      "conference": "MAC",
+      "division": "FBS"
+    },
+    {
+      "id": "kent_state",
+      "school": "Kent State",
+      "nickname": "Golden Flashes",
+      "name": "Kent State Golden Flashes",
+      "conference": "MAC",
+      "division": "FBS"
+    },
+    {
+      "id": "miami_oh",
+      "school": "Miami (OH)",
+      "nickname": "RedHawks",
+      "name": "Miami (OH) RedHawks",
+      "conference": "MAC",
+      "division": "FBS"
+    },
+    {
+      "id": "northern_illinois",
+      "school": "Northern Illinois",
+      "nickname": "Huskies",
+      "name": "Northern Illinois Huskies",
+      "conference": "MAC",
+      "division": "FBS"
+    },
+    {
+      "id": "ohio",
+      "school": "Ohio",
+      "nickname": "Bobcats",
+      "name": "Ohio Bobcats",
+      "conference": "MAC",
+      "division": "FBS"
+    },
+    {
+      "id": "toledo",
+      "school": "Toledo",
+      "nickname": "Rockets",
+      "name": "Toledo Rockets",
+      "conference": "MAC",
+      "division": "FBS"
+    },
+    {
+      "id": "western_michigan",
+      "school": "Western Michigan",
+      "nickname": "Broncos",
+      "name": "Western Michigan Broncos",
+      "conference": "MAC",
+      "division": "FBS"
+    },
+    {
+      "id": "air_force",
+      "school": "Air Force",
+      "nickname": "Falcons",
+      "name": "Air Force Falcons",
+      "conference": "Mountain West",
+      "division": "FBS"
+    },
+    {
+      "id": "boise_state",
+      "school": "Boise State",
+      "nickname": "Broncos",
+      "name": "Boise State Broncos",
+      "conference": "Mountain West",
+      "division": "FBS"
+    },
+    {
+      "id": "colorado_state",
+      "school": "Colorado State",
+      "nickname": "Rams",
+      "name": "Colorado State Rams",
+      "conference": "Mountain West",
+      "division": "FBS"
+    },
+    {
+      "id": "fresno_state",
+      "school": "Fresno State",
+      "nickname": "Bulldogs",
+      "name": "Fresno State Bulldogs",
+      "conference": "Mountain West",
+      "division": "FBS"
+    },
+    {
+      "id": "hawaii_rainbow",
+      "school": "Hawaii Rainbow",
+      "nickname": "Warriors",
+      "name": "Hawaii Rainbow Warriors",
+      "conference": "Mountain West",
+      "division": "FBS"
+    },
+    {
+      "id": "nevada_wolf",
+      "school": "Nevada Wolf",
+      "nickname": "Pack",
+      "name": "Nevada Wolf Pack",
+      "conference": "Mountain West",
+      "division": "FBS"
+    },
+    {
+      "id": "new_mexico",
+      "school": "New Mexico",
+      "nickname": "Lobos",
+      "name": "New Mexico Lobos",
+      "conference": "Mountain West",
+      "division": "FBS"
+    },
+    {
+      "id": "san_diego_state",
+      "school": "San Diego State",
+      "nickname": "Aztecs",
+      "name": "San Diego State Aztecs",
+      "conference": "Mountain West",
+      "division": "FBS"
+    },
+    {
+      "id": "san_jose_state",
+      "school": "San Jose State",
+      "nickname": "Spartans",
+      "name": "San Jose State Spartans",
+      "conference": "Mountain West",
+      "division": "FBS"
+    },
+    {
+      "id": "unlv",
+      "school": "UNLV",
+      "nickname": "Rebels",
+      "name": "UNLV Rebels",
+      "conference": "Mountain West",
+      "division": "FBS"
+    },
+    {
+      "id": "utah_state",
+      "school": "Utah State",
+      "nickname": "Aggies",
+      "name": "Utah State Aggies",
+      "conference": "Mountain West",
+      "division": "FBS"
+    },
+    {
+      "id": "wyoming",
+      "school": "Wyoming",
+      "nickname": "Cowboys",
+      "name": "Wyoming Cowboys",
+      "conference": "Mountain West",
+      "division": "FBS"
+    },
+    {
+      "id": "oregon_state",
+      "school": "Oregon State",
+      "nickname": "Beavers",
+      "name": "Oregon State Beavers",
+      "conference": "Pac-12",
+      "division": "FBS"
+    },
+    {
+      "id": "washington_state",
+      "school": "Washington State",
+      "nickname": "Cougars",
+      "name": "Washington State Cougars",
+      "conference": "Pac-12",
+      "division": "FBS"
+    },
+    {
+      "id": "alabama",
+      "school": "Alabama",
+      "nickname": "Crimson Tide",
+      "name": "Alabama Crimson Tide",
+      "conference": "SEC",
+      "division": "FBS"
+    },
+    {
+      "id": "arkansas",
+      "school": "Arkansas",
+      "nickname": "Razorbacks",
+      "name": "Arkansas Razorbacks",
+      "conference": "SEC",
+      "division": "FBS"
+    },
+    {
+      "id": "auburn",
+      "school": "Auburn",
+      "nickname": "Tigers",
+      "name": "Auburn Tigers",
+      "conference": "SEC",
+      "division": "FBS"
+    },
+    {
+      "id": "florida",
+      "school": "Florida",
+      "nickname": "Gators",
+      "name": "Florida Gators",
+      "conference": "SEC",
+      "division": "FBS"
+    },
+    {
+      "id": "georgia",
+      "school": "Georgia",
+      "nickname": "Bulldogs",
+      "name": "Georgia Bulldogs",
+      "conference": "SEC",
+      "division": "FBS"
+    },
+    {
+      "id": "kentucky",
+      "school": "Kentucky",
+      "nickname": "Wildcats",
+      "name": "Kentucky Wildcats",
+      "conference": "SEC",
+      "division": "FBS"
+    },
+    {
+      "id": "lsu",
+      "school": "LSU",
+      "nickname": "Tigers",
+      "name": "LSU Tigers",
+      "conference": "SEC",
+      "division": "FBS"
+    },
+    {
+      "id": "mississippi_state",
+      "school": "Mississippi State",
+      "nickname": "Bulldogs",
+      "name": "Mississippi State Bulldogs",
+      "conference": "SEC",
+      "division": "FBS"
+    },
+    {
+      "id": "missouri",
+      "school": "Missouri",
+      "nickname": "Tigers",
+      "name": "Missouri Tigers",
+      "conference": "SEC",
+      "division": "FBS"
+    },
+    {
+      "id": "oklahoma",
+      "school": "Oklahoma",
+      "nickname": "Sooners",
+      "name": "Oklahoma Sooners",
+      "conference": "SEC",
+      "division": "FBS"
+    },
+    {
+      "id": "ole_miss",
+      "school": "Ole Miss",
+      "nickname": "Rebels",
+      "name": "Ole Miss Rebels",
+      "conference": "SEC",
+      "division": "FBS"
+    },
+    {
+      "id": "south_carolina",
+      "school": "South Carolina",
+      "nickname": "Gamecocks",
+      "name": "South Carolina Gamecocks",
+      "conference": "SEC",
+      "division": "FBS"
+    },
+    {
+      "id": "tennessee",
+      "school": "Tennessee",
+      "nickname": "Volunteers",
+      "name": "Tennessee Volunteers",
+      "conference": "SEC",
+      "division": "FBS"
+    },
+    {
+      "id": "texas",
+      "school": "Texas",
+      "nickname": "Longhorns",
+      "name": "Texas Longhorns",
+      "conference": "SEC",
+      "division": "FBS"
+    },
+    {
+      "id": "texas_a_m",
+      "school": "Texas A&M",
+      "nickname": "Aggies",
+      "name": "Texas A&M Aggies",
+      "conference": "SEC",
+      "division": "FBS"
+    },
+    {
+      "id": "vanderbilt",
+      "school": "Vanderbilt",
+      "nickname": "Commodores",
+      "name": "Vanderbilt Commodores",
+      "conference": "SEC",
+      "division": "FBS"
+    },
+    {
+      "id": "appalachian_state",
+      "school": "Appalachian State",
+      "nickname": "Mountaineers",
+      "name": "Appalachian State Mountaineers",
+      "conference": "Sun Belt",
+      "division": "FBS"
+    },
+    {
+      "id": "arkansas_state",
+      "school": "Arkansas State",
+      "nickname": "Red Wolves",
+      "name": "Arkansas State Red Wolves",
+      "conference": "Sun Belt",
+      "division": "FBS"
+    },
+    {
+      "id": "coastal_carolina",
+      "school": "Coastal Carolina",
+      "nickname": "Chanticleers",
+      "name": "Coastal Carolina Chanticleers",
+      "conference": "Sun Belt",
+      "division": "FBS"
+    },
+    {
+      "id": "georgia_southern",
+      "school": "Georgia Southern",
+      "nickname": "Eagles",
+      "name": "Georgia Southern Eagles",
+      "conference": "Sun Belt",
+      "division": "FBS"
+    },
+    {
+      "id": "georgia_state",
+      "school": "Georgia State",
+      "nickname": "Panthers",
+      "name": "Georgia State Panthers",
+      "conference": "Sun Belt",
+      "division": "FBS"
+    },
+    {
+      "id": "james_madison",
+      "school": "James Madison",
+      "nickname": "Dukes",
+      "name": "James Madison Dukes",
+      "conference": "Sun Belt",
+      "division": "FBS"
+    },
+    {
+      "id": "louisiana",
+      "school": "Louisiana",
+      "nickname": "Ragin' Cajuns",
+      "name": "Louisiana Ragin' Cajuns",
+      "conference": "Sun Belt",
+      "division": "FBS"
+    },
+    {
+      "id": "ulm",
+      "school": "ULM",
+      "nickname": "Warhawks",
+      "name": "ULM Warhawks",
+      "conference": "Sun Belt",
+      "division": "FBS"
+    },
+    {
+      "id": "marshall_thundering",
+      "school": "Marshall Thundering",
+      "nickname": "Herd",
+      "name": "Marshall Thundering Herd",
+      "conference": "Sun Belt",
+      "division": "FBS"
+    },
+    {
+      "id": "old_dominion",
+      "school": "Old Dominion",
+      "nickname": "Monarchs",
+      "name": "Old Dominion Monarchs",
+      "conference": "Sun Belt",
+      "division": "FBS"
+    },
+    {
+      "id": "south_alabama",
+      "school": "South Alabama",
+      "nickname": "Jaguars",
+      "name": "South Alabama Jaguars",
+      "conference": "Sun Belt",
+      "division": "FBS"
+    },
+    {
+      "id": "southern_miss",
+      "school": "Southern Miss",
+      "nickname": "Golden Eagles",
+      "name": "Southern Miss Golden Eagles",
+      "conference": "Sun Belt",
+      "division": "FBS"
+    },
+    {
+      "id": "texas_state",
+      "school": "Texas State",
+      "nickname": "Bobcats",
+      "name": "Texas State Bobcats",
+      "conference": "Sun Belt",
+      "division": "FBS"
+    },
+    {
+      "id": "troy",
+      "school": "Troy",
+      "nickname": "Trojans",
+      "name": "Troy Trojans",
+      "conference": "Sun Belt",
+      "division": "FBS"
+    },
+    {
+      "id": "uconn",
+      "school": "UConn",
+      "nickname": "Huskies",
+      "name": "UConn Huskies",
+      "conference": "FBS Independents",
+      "division": "FBS"
+    },
+    {
+      "id": "umass",
+      "school": "UMass",
+      "nickname": "Minutemen",
+      "name": "UMass Minutemen",
+      "conference": "FBS Independents",
+      "division": "FBS"
+    },
+    {
+      "id": "notre_dame_fighting",
+      "school": "Notre Dame Fighting",
+      "nickname": "Irish",
+      "name": "Notre Dame Fighting Irish",
+      "conference": "FBS Independents",
+      "division": "FBS"
+    }
+  ]
+}
